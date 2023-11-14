@@ -1,7 +1,6 @@
 {
   "name": "fashionbe",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -17,5 +16,15 @@
     "dotenv": "^14.2.0",
     "express": "^4.17.2",
     "mongoose": "^6.1.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francine-Pepe/fashionBE.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Francine-Pepe/fashionBE/issues"
+  },
+  "homepage": "https://github.com/Francine-Pepe/fashionBE#readme",
+  "description": ""
 }
